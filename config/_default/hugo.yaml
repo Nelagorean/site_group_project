@@ -46,8 +46,15 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
+params:
+  math: true
 markup:
   _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: true
 related:
   threshold: 80
   includeNewer: true
