@@ -37,6 +37,9 @@ tags:
 - Закон Аррениуса
 featured: false
 
+# Display this page in the Featured widget?
+featured: true
+
 links:
 - name: GitHub репозиторий
   url: https://github.com/Nelagorean/project_site
