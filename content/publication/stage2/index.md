@@ -38,7 +38,7 @@ featured: false
 links:
 - name: GitHub репозиторий
   url: https://github.com/Nelagorean/site_group_project
-url_video: 'https://plvideo.ru/watch?v=q9HqKQO53cAr'
+url_video: 'https://plvideo.ru/watch?v=G6rQklDPscM1'
 url_pdf: ""
 url_code: ""
 url_dataset: ""
